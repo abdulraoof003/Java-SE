@@ -1,0 +1,5 @@
+person{name='bobs', age='1', occupation='String1'}
+person{name='bob', age='2', occupation='String2'}
+person{name='bo', age='3', occupation='String3'}
+person{name='b', age='4', occupation='String4'}
+person{name='~', age='5', occupation='String5'}

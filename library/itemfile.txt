@@ -1,0 +1,5 @@
+book{itemId='0', name='The Hobbit', borrowed='false', personId='0', book author='J R Tolkien'}
+book{itemId='1', name='The Lord of the Rings', borrowed='false', personId='0', book author='J R Tolkien'}
+Dvd{itemId='2', name='Gremlins', borrowed='false', personId='0', director name='Joe Dante'}
+Dvd{itemId='3', name='Superman', borrowed='false', personId='0', director name='Richard Donner'}
+dissertation{itemId='4', name='Quantam Theory', borrowed='false', personId='0', university name='York'}
